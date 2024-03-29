@@ -6,7 +6,7 @@ This is an educational project on creating a LAMP stack application within your 
 Hello, My name is Robert H. and I'm an aspiring Cyber Security enthusiast. This repository is meant to serve as a tutorial on building a LAMP stack application within Ubuntu.
 * * *
 # External Prerequisites
-You should already have some type of virtual machine software installed. In this repository I will be utilizing virtual box, and ubuntu. Feel free to use any compatible linux distribution and virtual machine software you prefer. We will also be utilizing a python script so you will need pip installed onto your ubuntu system.
+You should already have some type of virtual machine software installed. In this repository I will be utilizing virtual box, and ubuntu. Feel free to use any compatible linux distribution and virtual machine software you prefer. We will also be utilizing a python script so you will need pip installed onto your ubuntu system. The primary purpose for this tutorial will be to help display different penetration testing techniques within my other repository which can be found here - [link will be updated soon]
 
 Virtual Box Link - https://www.virtualbox.org/wiki/Downloads
 
